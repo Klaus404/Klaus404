@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Klaus404
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python and Linux
-- 📫 How to reach me barbuclaudiu404@gmail.com
+- 👋 I’m @Klaus404
+- 👀 Interested in Cyber Security
+- 🌱 Learning Python and Linux
+- 📫 Reach me barbuclaudiu404@gmail.com
 
 <!---
 Klaus404/Klaus404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
