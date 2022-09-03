@@ -1,9 +1,9 @@
-  Δ https://klaus404.github.io/my-website/ Δ
+  - Δ https://klaus404.github.io/my-website/ Δ
 
-  👋 I’m @Klaus404
-  👀 Interested in Coding and Cyber Security
-  🌱 Learning Kotlin and Security
-  📫 Reach me barbuclaudiu404@gmail.com
+  - 👋 I’m @Klaus404 \
+  - 👀 Interested in Coding and Cyber Security
+  - 🌱 Learning Kotlin and Security
+  - 📫 Reach me barbuclaudiu404@gmail.com
 
 
 <!---
