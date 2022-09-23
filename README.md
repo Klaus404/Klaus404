@@ -1,6 +1,6 @@
   - 🐰 https://klaus404.github.io/my-website/ 
 
-  - 👋 I’m @Klaus404 \
+  - 👋 I’m @Klaus404 
   - 👀 Interested in Coding and Cyber Security
   - 🌱 Learning Kotlin and Security
   - 📫 Reach me barbuclaudiu404@gmail.com
