@@ -2,7 +2,7 @@
 
 
   - 👀 Hobbies are Coding and Cyber Security
-  - 🌱 Developing in Java, Spring and Python
+  - 🌱 Java and Spring development
   - 📫 barbuclaudiu404@gmail.com
 
 
